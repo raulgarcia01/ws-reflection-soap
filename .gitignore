@@ -1,2 +1,6 @@
 # Archivo GIT Ignore
 /target/
+.classpath
+.project
+.settings/
+derby.log
